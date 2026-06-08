@@ -26,8 +26,8 @@ To write a Java program that defines an enum named GameLevel with constants EASY
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: MUKESH R
-RegisterNumber: 212223240100
+Developed by: Dharshini K
+RegisterNumber: 212223220017
 */
 ```
 
